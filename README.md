@@ -31,7 +31,7 @@ from quadratic_equation import get_roots
 ```python
 from quadratic_equation import get_roots
 
-get_roots(3, 5, 4)
+get_roots(-2, 2, 4)
 >>> (2.0, -1.0)
 ```
 
